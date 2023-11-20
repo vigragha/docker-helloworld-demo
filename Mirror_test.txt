@@ -1,0 +1,1 @@
+This is the test file to check if mirroring is happening is OCI repository or not
